@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sbiya Jasemine</h1>
-<h3 align="center">"💻 Crafting Code, Building Solutions | 🚀 Software Engineer | 🌍 Open-Source Enthusiast"r</h3>
+<h3 align="center">"💻 Crafting Code, Building Solutions | 🚀 Software Engineer | 🌍 Open-Source Enthusiast"</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Developer!;Love+Open-Source+%26+Innovation!" />
